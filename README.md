@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on hashkey<br>🤝 I’m looking for help with java<br>🌱 I’m currently learning java<br>💬 Ask me about java<br>⚡ Fun fact: Python code is often ~3–5× shorter than Java for the same task — but Java usually runs faster and scales more predictably.
+🔭 I’m currently working on [hashkey](https://github.com/PureDroid/hashkey)<br>🤝 I’m looking for help with java<br>🌱 I’m currently learning java<br>💬 Ask me about java<br>⚡ Fun fact: Python code is often ~3–5× shorter than Java for the same task — but Java usually runs faster and scales more predictably.
 
 
 # 💻 Tech Stack:
