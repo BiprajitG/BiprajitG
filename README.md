@@ -81,8 +81,10 @@
 
 ## 🧠 Language Usage
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BiprajitG&layout=compact&theme=tokyonight" />
+<p>
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JVM-OpenJDK-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Build-Maven-C71A36?style=for-the-badge" />
 </p>
 
 ---
