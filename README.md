@@ -1,22 +1,146 @@
-# 💫 About Me:
-🔭 I’m currently working on [hashkey](https://github.com/PureDroid/hashkey)<br>🤝 I’m looking for help with java<br>🌱 I’m currently learning java<br>💬 Ask me about java<br>⚡ Fun fact: Python code is often ~3–5× shorter than Java for the same task — but Java usually runs faster and scales more predictably.
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Biprajit%20Ghosh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+<!-- ===================== INTRO ===================== -->
+<h2 align="center">Backend • Systems • Language-Focused Engineering</h2>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PureDroid&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PureDroid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PureDroid&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <i>
+    Focused on building correct, scalable systems by mastering fundamentals,
+    not chasing frameworks.
+  </i>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PureDroid&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-SOON!
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BiprajitG&style=flat-square&color=blue" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PureDroid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+- Strong focus on **backend engineering and system-level thinking**
+- Currently deepening expertise in **Java** (JVM internals, tooling, ecosystem)
+- Actively progressing toward **Rust** for performance-critical and safe systems
+- Preference for **clarity, correctness, and long-term maintainability**
+- Believe good software is boring, predictable, and reliable
+
+> *Languages are tools. Mastery is understanding trade-offs, not syntax.*
+
+---
+
+## 🎯 Current Technical Goals
+
+- Master **Java** beyond frameworks:
+  - JVM behavior
+  - Memory model
+  - Concurrency
+  - Build tooling & dependency management
+- Build production-grade systems in **Rust**
+  - Ownership & lifetimes
+  - Zero-cost abstractions
+  - Systems safety and performance
+- Design clean APIs and configuration-driven systems
+- Write software meant to last, not demos
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+### Backend / Tooling
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### OS / Environment
+<p>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+</p>
+
+---
+
+## 📦 Featured Projects
+
+### 🔑 hashkey
+> Secure, configuration-driven backend project focused on correctness and structure  
+- Java-based
+- Emphasis on clean config handling and architecture
+- Built with scalability and maintainability in mind  
+
+🔗 https://github.com/BiprajitG/hashkey
+
+---
+
+### 🌱 EVar
+> Lightweight Java library for `.env` configuration management  
+- Simple API
+- Avoids over-engineering
+- Designed for real backend usage, not demos  
+
+🔗 https://github.com/BiprajitG/EVar
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BiprajitG&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiprajitG&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiprajitG&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BiprajitG&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BiprajitG&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 💭 Random Dev Thought
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
