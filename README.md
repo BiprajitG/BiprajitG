@@ -109,14 +109,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/generated/overview.svg#gh-dark-mode-only" />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -129,14 +121,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BiprajitG&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BiprajitG&theme=flat&no-frame=true&column=5" />
 </p>
 
 ---
