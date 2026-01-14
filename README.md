@@ -79,6 +79,14 @@
 
 ---
 
+## 🧠 Language Usage
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BiprajitG&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 📦 Featured Projects
 
 ### 🔑 hashkey
@@ -104,8 +112,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BiprajitG&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiprajitG&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/generated/overview.svg#gh-dark-mode-only" />
 </p>
 
 ---
@@ -129,7 +136,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BiprajitG&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BiprajitG&theme=flat&no-frame=true&column=5" />
 </p>
 
 ---
